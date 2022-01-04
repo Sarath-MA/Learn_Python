@@ -3,7 +3,7 @@
 a = 5
 a1 = 55
 b = "Hello world"
-_b = "New to data science"
+_b = " New to data science  "
 
 
 #To name a variable it has some own rules and restrictions:
