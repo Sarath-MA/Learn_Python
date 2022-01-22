@@ -1,5 +1,5 @@
-Python is changing the game with its readability and flexibility. 
-The open-source of its nature is exponentially is developed in the Machine learning and Deep learning world Other than DS world, Web development, game development, IoT,  are the fields leveraging  python. 
+Python is changing the game with its readability and flexibility.
+The open-source of its nature is  exponentially is developed in the Machine learning and Deep learning world Other than DS world, Web development, game development, IoT,  are the fields leveraging  python. 
 It consistently proves its scalability. Tech giants are using python in their daily job. So it's a great time to learn the language. 
 Anyone can learn python at no cost due to abundant educational resources on the internet. 
 If you are going to learn a language stick with the basics and make mistakes. 
